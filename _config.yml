@@ -15,4 +15,6 @@ twitter_username: elchefe
 github_username:  TimBanks
 
 # Build settings
+gems: [jekyll-paginate]
 markdown: kramdown
+paginate: 1
