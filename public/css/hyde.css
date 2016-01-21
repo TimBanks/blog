@@ -82,7 +82,7 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Hack", monospace;
+  font-family: "Hack", sans-serif;
   font-size: 3.25rem;
 }
 
